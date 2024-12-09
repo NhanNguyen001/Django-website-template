@@ -240,3 +240,6 @@ Now copy the contents of encoded.txt and paste it in `FIREBASE_ENCODED="wedde"` 
 Images are taken from free to use sites such as 
 1. unsplash - https://unsplash.com/
 2. Pexels - https://www.pexels.com/
+
+
+source venv/bin/activate
